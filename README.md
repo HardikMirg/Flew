@@ -4,7 +4,7 @@ Flew is an Open-Source Browser-Based API Development Eco-System to maintain the 
 
 ## Status
 
-![](https://img.shields.io/github/license/HardikMirg/Flew)
+![MIT License](https://img.shields.io/apm/l/atomic-design-ui?)
 ![](https://img.shields.io/github/commits-since/HardikMirg/Flew/1.0.0)
 ![](https://img.shields.io/github/downloads/HardikMirg/Flew/total)
 ![](https://img.shields.io/github/forks/HardikMirg/Flew)
@@ -44,7 +44,7 @@ Flew is an Open-Source Browser-Based API Development Eco-System to maintain the 
 
 ## License
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+![MIT License](https://img.shields.io/apm/l/atomic-design-ui?)
 
 ## Contributing
 
